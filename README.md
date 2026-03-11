@@ -26,6 +26,8 @@ An AI-powered smart city planning and visualization system with real-time analyt
 
 ### Prerequisites
 
+
+
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
 - npm (comes with Node.js)
 
