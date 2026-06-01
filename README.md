@@ -22,9 +22,9 @@ An AI-powered smart city planning and visualization system with real-time analyt
 - **PDF Export** - Generate detailed reports with charts and screenshots
 - **Layer System** - Toggle zones, population heatmap, energy grid, traffic, transit, routes, services and safety layers
 
-## 🚀 Installation
+>>🚀 Installation
 
-### Prerequisites
+>> Prerequisites
 
 
 
