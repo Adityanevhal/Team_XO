@@ -137,11 +137,6 @@ smart-city-planner/
 └── vite.config.js
 ```
 
-## 📄 License
-
-MIT License - feel free to use for personal or commercial projects.
-
-## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
