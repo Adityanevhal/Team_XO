@@ -2,8 +2,6 @@
 
 An AI-powered smart city planning and visualization system with real-time analytics, 3D views, and sustainability metrics.
 
-![Version](https://img.shields.io/badge/version-2.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## ✨ Features
 
